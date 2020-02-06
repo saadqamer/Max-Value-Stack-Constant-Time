@@ -1,11 +1,6 @@
-package A1Q3;
+
 import java.util.*;
 
-/**
- * Specializes the stack data structure for comparable elements, and provides
- * a method for determining the maximum element on the stack in O(1) time.
- * @author jameselder
- */
 public class MaxStack<E extends Comparable<E>> extends Stack<E> {
 
 	
