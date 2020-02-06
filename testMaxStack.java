@@ -1,9 +1,4 @@
-package A1Q3;
 
-/**
- * Tests class MaxStack
- * @author jameselder
- */
 public class testMaxStack {
 
     public static void main(String[] args) {
